@@ -1,0 +1,38 @@
+mode = "light"
+
+# Indigo Magic chrome on the IRIX desk. Desk blue #4C719E is sampled from
+# a clear patch of an IRIX desktop; the icon-well blue is the Icon Catalog
+# field; cyan is the "See What's Possible" page; magenta is the O2+ shell.
+accent = "#1A4A7A"
+selection = "#7EA3D3"
+muted = "#5A5A58"
+
+background = "#D5D5D3"
+dark_background = "#C4C4C2"
+darker_background = "#A6A6A4"
+lighter_background = "#E8E8E6"
+
+foreground = "#1A1A1A"
+dark_foreground = "#5A5A58"
+light_foreground = "#3A3A38"
+bright_foreground = "#101010"
+
+# Raised gray frame, the way 4Dwm sits on the blue desk.
+hyprland_active_border = "rgba(f7f7f5ff) rgba(6a6a68ff) 45deg"
+hyprland_inactive_border = "rgba(6a84a488)"
+
+red = "#8E1E1E"
+yellow = "#6E5208"
+orange = "#7A3C0E"
+green = "#126428"
+cyan = "#1A5F67"
+blue = "#1A4A7A"
+magenta = "#5C2D82"
+brown = "#5C3E24"
+
+bright_red = "#A32020"
+bright_yellow = "#745708"
+bright_green = "#146B2E"
+bright_cyan = "#1A5F67"
+bright_blue = "#24558A"
+bright_magenta = "#6A348E"
